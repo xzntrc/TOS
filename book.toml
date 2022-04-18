@@ -1,0 +1,13 @@
+[book]
+authors = ["Eccentrici"]
+language = "en"
+multilingual = false
+src = "src"
+title = "learn TempleOS"
+
+[build]
+# Follow gh pages convention:
+build-dir = "./docs"
+
+[output.html]
+preferred-dark-theme = "ayu"
