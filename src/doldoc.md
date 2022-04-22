@@ -32,7 +32,7 @@ DolDocs are mostly plaintext, usually. However, there are special commands wrapp
 
 Centered text: `$TX+CX,"Centered Text!"$`
 
-Light blue centered text: `$LTBLUE$$TX+CX,"Centered Text!"$$FG$
+Light blue centered text: `$LTBLUE$$TX+CX,"Centered Text!"$$FG$`
 
 > The first command, `$LTBLUE$`, sets the text color to light blue. The last command, `$FG$`, returns the text color to the default foreground color.
 
