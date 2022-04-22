@@ -11,3 +11,5 @@ Before continuing we should acknowledge some pre-defined keybindings which will 
 <kbd>Windows Key</kbd>: hold to show the drop-down menu; navigate using arrow keys.
 <kbd>Ctrl+Alt+T</kbd>: opens a new terminal.   
 <kbd>Ctrl+ALt+N</kbd>: switches window.
+
+### [[DolDocs|doldoc]]
