@@ -14,7 +14,7 @@ Throughout the development of this site, we have analysed various sources to com
 ### Archives
 * [Archive.org](https://archive.org/details/TerryADavis_TempleOS_Archive)
 * [YouTube Repost](https://www.youtube.com/channel/UCuIUshnWOUD-a4d5Z54kj8A/featured)
-### TempleOS Creators
+### Contributors
 * [Kaos PC Tech](https://www.youtube.com/channel/UCR4nwIn0mtddvhUabMKp5VA)
 ### Donate to Mental Health
 * [The Brain and Behavior Research Foundation](https://bbrfoundation.donordrive.com/campaign/Terry-A-Davis)
