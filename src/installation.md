@@ -9,7 +9,7 @@ To start, you'll need to establish which virtual machine you'll be using, genera
 
 All essentially do the same job of virtualizing an OS, however, there is a major difference when it comes specifically TempleOS, that is that VirtualBox does not support PC speakers; it might not be that big of an issue however it is more immersive when you can use your speakers, in which case you should be using VMWare Workstation (or even QEMU). I personally recommend QEMU however based on its simplicity.
 
-This guide will require you to have a basic understanding of how to create a virtual machine using your desired VM software, as the process is universally the same.
+This guide will require you to have a basic understanding of how to create a virtual machine using your desired VM software, as the process is typically the same.
 
 You can download TempleOS from [here](https://www.templeos.org/Downloads/TempleOS.ISO).
 
