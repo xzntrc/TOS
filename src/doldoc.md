@@ -28,7 +28,7 @@ When you click on a DolDoc or select one with <kbd>Space</kbd>, the document wil
 <kbd>Ctrl+l</kbd>: Insert a command/widget into the document. Experiment with this one!
 
 # Plaintext
-DolDocs are mostly plaintext, usually. However, there are special commands wrapped in money signs ($) that add widgets or formatting to the text. Here are some useful examples:
+DolDocs are mostly plaintext, usually. However, there are special commands wrapped in dollar signs ($) that add widgets or formatting to the text. Here are some useful examples:
 
 Centered text: `$TX+CX,"Centered Text!"$`
 
