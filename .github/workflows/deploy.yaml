@@ -47,6 +47,8 @@ jobs:
       run: sed -i 's|^docs/$||' .gitignore
     - name: Disable jekyll
       run: touch .nojekyll
+    - name: Add CNAME
+      run: echo "templeos.me" >> CNAME
     - name: Commit and Push render to gh-pages
       run: |
         set -x
