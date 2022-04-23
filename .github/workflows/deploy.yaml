@@ -48,7 +48,7 @@ jobs:
     - name: Disable jekyll
       run: touch .nojekyll
     - name: Add CNAME
-      run: echo "templeos.me" >> CNAME
+      run: echo "templeos.me" >> docs/CNAME
     - name: Commit and Push render to gh-pages
       run: |
         set -x
