@@ -1,9 +1,10 @@
 [book]
-authors = ["Eccentrici"]
+authors = ["xzntrc#0001","Soda#4138"]
 language = "en"
 multilingual = false
 src = "src"
-title = "learn TempleOS"
+title = "TempleOS Simplified"
+description = "Learn TempleOS the easy way"
 
 [build]
 # Follow gh pages convention:

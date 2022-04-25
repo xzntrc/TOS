@@ -14,7 +14,7 @@ This guide will require you to have a basic understanding of how to create a vir
 You can download TempleOS from [here](https://www.templeos.org/Downloads/TempleOS.ISO).
 
 ### Using VirtualBox / VMWare Workstation
-This will be detailed specifically for VirtualBox since I don't run VMWare, however, you should be able to replicate this using VMWare; as long as you have half a brain cell, and two functional arms.
+This will be detailed specifically for VirtualBox since I don't run VMWare, however, you should be able to replicate this using VMWare.
 
 Upon opening, VirtualBox selects the "New" button.
 

@@ -1,5 +1,5 @@
 # An Introduction to TempleOS
-[TempleOS](https://www.templeos.org/) is a biblically inspired lightweight operating system (OS) that represents the prophesied Third Temple. It was developed by American programmer Terry A. Davis, who suffered from schizophrenia while working on it. Throughout his development of TempleOS he experienced maniac episodes; stating to have been visited by aliens and being under the surveillance of Government Agencies.
+[TempleOS](https://www.templeos.org/) is a biblically inspired lightweight, ring-zero operating system (OS) that represents the prophesied Third Temple. It was developed by American programmer Terry A. Davis, who suffered from schizophrenia while working on it. Throughout his development of TempleOS he experienced maniac episodes; stating to have been visited by aliens and being under the surveillance of Government Agencies.
 
 Regardless of your opinions on the creator or the goal of TempleOS, we can all agree that it is a masterpiece. Unlike most (dare I say "all") operating systems, TempleOS and its components were solely created by one person; from the compiler, kernel, and all the programs within it, to even the software it was built in. Terry Davis truly is the smartest programmer to ever live, and will always be.
 <br>
