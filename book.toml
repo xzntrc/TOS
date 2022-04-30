@@ -11,3 +11,12 @@ build-dir = "./docs"
 
 [output.html]
 preferred-dark-theme = "ayu"
+git-repo-url = "https://github.com/xzntrc/TOS"
+edit-url-template = "https://github.com/xzntrc/TOS/edit/main/src/{path}"
+
+[output.html.print]
+enable = true
+page-break = true
+
+[output.html.redirect]
+"/discord.html" = "https://discord.gg/Epu3WxjaP7"
