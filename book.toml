@@ -20,3 +20,4 @@ page-break = true
 
 [output.html.redirect]
 "/discord.html" = "https://discord.gg/Epu3WxjaP7"
+"/download" = "https://github.com/xzntrc/TOS/raw/main/TempleOS.ISO"
