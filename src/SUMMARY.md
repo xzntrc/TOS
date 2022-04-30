@@ -9,8 +9,6 @@
 - [Programs](./programs.md)
 - [DolDocs](./doldoc.md)
 
-
----
-
+# Epilogue
 [Resources](./resources.md)
 [Contributors](./contributors.md)
