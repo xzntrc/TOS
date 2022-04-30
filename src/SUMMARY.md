@@ -8,7 +8,8 @@
 - [Keybindings](./binds.md)
 - [Programs](./programs.md)
 - [DolDocs](./doldoc.md)
-<br>
+
+
 ---
 
 [Resources](./resources.md)
