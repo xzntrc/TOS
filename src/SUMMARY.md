@@ -12,6 +12,6 @@
 
 # Epilogue
 
-[Resources](./resources.md)
+- [Resources](./resources.md)
 
-[Contributors](./contributors.md)
+- [Contributors](./contributors.md)
