@@ -8,5 +8,6 @@
 - [Keybindings](./binds.md)
 - [Programs](./programs.md)
 - [DolDocs](./doldoc.md)
+- [Graphics](./graphics.md)
 # Epilogue
 - [Resources](./resources.md)
