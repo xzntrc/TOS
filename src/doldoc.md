@@ -39,4 +39,4 @@ Light blue centered text: `$LTBLUE$$TX+CX,"Centered Text!"$$FG$`
 Change the default foreground color to purple: `$FD, PURPLE$`
 Scroll through text: `$TX, "Weeeeee!", SCX=5$`
 
-As you can see, there are countless things you can do with DolDocs. And this is just text formatting! Check out the original documentation for the [full breakdown](https://web.archive.org/web/20170305001433/http://www.templeos.org/Wb/Doc/DolDocOverview.html#l1).
+As you can see, there are countless things you can do with DolDocs. And this is just text formatting! Check out the original documentation for the [full breakdown](https://templeos.holyc.xyz/Wb/Doc/DolDocOverview.html).

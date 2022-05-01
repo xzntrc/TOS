@@ -10,4 +10,5 @@
 - [DolDocs](./doldoc.md)
 - [Graphics](./graphics.md)
 # Epilogue
-- [Resources](./resources.md)
+[Resources](./resources.md)
+[Contributors](./contributors.md)

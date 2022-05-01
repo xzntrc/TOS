@@ -11,7 +11,7 @@ All essentially do the same job of virtualizing an OS, however, there is a major
 
 This guide will require you to have a basic understanding of how to create a virtual machine using your desired VM software, as the process is typically the same.
 
-You can download TempleOS from [here](https://www.templeos.org/Downloads/TempleOS.ISO).
+You can download TempleOS from [here](https://templeos.me/templeos.iso).
 
 ### Using VirtualBox / VMWare Workstation
 This will be detailed specifically for VirtualBox since I don't run VMWare, however, you should be able to replicate this using VMWare.
@@ -48,7 +48,7 @@ I usually recommend using QEMU as it's completely free and cross-platform. Addit
 
 3. Now time to load the live CD: (It's also worth mentioning if you ever fuck up your install of TempleOS, just re-run this to get the base version).
     ```sh
-    qemu-system-x86_64 -soundhw pcspk -m 512M -enable-kvm -drive file=temple -cdrom TempleOS.ISO -boot order=d
+    qemu-system-x86_64 -soundhw pcspk -m 512M -enable-kvm -drive file=temple -cdrom templeos.iso -boot order=d
     ```
    Feel free to change around certain settings, for example the ram.
 
